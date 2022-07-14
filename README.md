@@ -11,7 +11,7 @@
 - 喜欢研究rust.
 
 <a href="https://juejin.cn/user/677714513628055">
-    <img src="https://img.shields.io/badge/CSDN Page View-115K-E65A65.svg" alt="" title="Linken-code的掘金" />
+    <img src="https://img.shields.io/badge/Page%20View-juejin-orange" alt="" title="Linken-code的掘金" />
 </a>
 
 ---
